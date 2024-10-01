@@ -1,6 +1,6 @@
 # Adventure Plan
 
-# Overview
+## Overview
 
 In "The Wizarding Adventure," players will go on an exciting journey in the Harry Potter world. They will explore Hogwarts, make choices, and face challenges. Each choice will lead to a different adventure filled with magic and fun!
 
